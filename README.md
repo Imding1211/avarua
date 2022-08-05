@@ -10,8 +10,8 @@
     * make ref : 建立reference data
     * make run : 使用nohup指令於背景執行  
 ## 2D Case
-* Detonation Waves Case
-* Blunt-Body Flow Case
+* Detonation Waves Case 
+* Blunt-Body Flow Case <br>
   Python 指令
   * python set : 開啟設定參數介面
   * python run : 執行程式
