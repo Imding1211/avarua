@@ -23,4 +23,8 @@
     * make :將solver轉檔與執行主程式
     * make run : 使用nohup指令於背景執行  
 ## References
-[Morvan](https://mofanpy.com/)
+* [Morvan](https://mofanpy.com/) <br>
+* [Hung-yi Lee](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ) <br>
+* [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg) <br>
+* [Python Engineer](https://www.youtube.com/channel/UCbXgNpp0jedKWcQiULLbDTA) <br>
+* [Codemy.com](https://www.youtube.com/channel/UCFB0dxMudkws1q8w5NJEAmw) <br>
