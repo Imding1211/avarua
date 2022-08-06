@@ -1,3 +1,4 @@
+# 碩士班
 ## 1D Case
 * Two Interacting Blast Waves Problem
   * GUI : 介面版本 <br>
@@ -21,7 +22,14 @@
   * DQN : 使用Deep Q Network最佳化
   makefile指令
     * make :將solver轉檔與執行主程式
-    * make run : 使用nohup指令於背景執行  
+    * make run : 使用nohup指令於背景執行
+## References
+* [Morvan](https://mofanpy.com/) <br>
+* [Hung-yi Lee](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ) <br>
+* [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg) <br>
+* [Python Engineer](https://www.youtube.com/channel/UCbXgNpp0jedKWcQiULLbDTA) <br>
+* [Codemy.com](https://www.youtube.com/channel/UCFB0dxMudkws1q8w5NJEAmw) <br>
+# 其他
 ## Genetic Algorithm
 ```mermaid
 graph TD
@@ -33,9 +41,3 @@ E --> F{終止條件}
 F -- 滿足 --> G[結束計算]
 F -- 不滿足 --> B
 ```
-## References
-* [Morvan](https://mofanpy.com/) <br>
-* [Hung-yi Lee](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ) <br>
-* [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg) <br>
-* [Python Engineer](https://www.youtube.com/channel/UCbXgNpp0jedKWcQiULLbDTA) <br>
-* [Codemy.com](https://www.youtube.com/channel/UCFB0dxMudkws1q8w5NJEAmw) <br>
