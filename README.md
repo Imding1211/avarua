@@ -1,4 +1,4 @@
-## 碩士班
+## 碩士班 2020-2022
 ### 1D Case
 * Two Interacting Blast Waves Problem
   * GUI : 介面版本 <br>
@@ -30,7 +30,7 @@
 * [Python Engineer](https://www.youtube.com/channel/UCbXgNpp0jedKWcQiULLbDTA) <br>
 * [Codemy.com](https://www.youtube.com/channel/UCFB0dxMudkws1q8w5NJEAmw) <br>
 ## 其他
-### Genetic Algorithm
+### Genetic Algorithm(GA)
 ```mermaid
 graph TD
 A[選擇初始生命種群] -->B(評價種群中的個體適應度)
