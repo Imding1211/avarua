@@ -15,7 +15,13 @@
   Python 指令
   * python set : 開啟設定參數介面
   * python run : 執行程式
-  
+## PDE
+* Optimization of Pulse Detonation Engines
+  * QLearning : 使用QLearning最佳化
+  * DQN : 使用Deep Q Network最佳化
+  makefile指令
+    * make :將solver轉檔與執行主程式
+    * make run : 使用nohup指令於背景執行  
 ## Genetic Algorithm
 ```mermaid
 graph TD
@@ -27,13 +33,6 @@ E --> F{終止條件}
 F -- 滿足 --> G(結束計算)
 F -- 不滿足 --> B
 ```
-## PDE
-* Optimization of Pulse Detonation Engines
-  * QLearning : 使用QLearning最佳化
-  * DQN : 使用Deep Q Network最佳化
-  makefile指令
-    * make :將solver轉檔與執行主程式
-    * make run : 使用nohup指令於背景執行  
 ## References
 * [Morvan](https://mofanpy.com/) <br>
 * [Hung-yi Lee](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ) <br>
