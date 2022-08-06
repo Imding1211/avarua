@@ -15,6 +15,18 @@
   Python 指令
   * python set : 開啟設定參數介面
   * python run : 執行程式
+  
+## Genetic Algorithm
+```mermaid
+graph TD
+A[選擇初始生命種群] -->B(評價種群中的個體適應度)
+B --> C(以比例原則選擇產生下一個種群)
+C --> D(種群交配)
+D --> E(種群突變)
+E --> F{終止條件}
+F -- 滿足 --> G(結束計算)
+F -- 不滿足 --> B
+```
 ## PDE
 * Optimization of Pulse Detonation Engines
   * QLearning : 使用QLearning最佳化
