@@ -22,3 +22,5 @@
   makefile指令
     * make :將solver轉檔與執行主程式
     * make run : 使用nohup指令於背景執行  
+## References
+[Morvan](https://mofanpy.com/)
