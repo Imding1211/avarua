@@ -255,10 +255,10 @@ c---------------------MAIN ONE-----------------------SF(k)--------------
         call HMSTH2_C(Qold1s,upr,upl,unr,unl,hmsth_alpha,hmsth_bvof)
 
       elseif (imethod .EQ. 11) then
-        call HMT_P(Qold1s,upr,upl,unr,unl,hmsth_bvof,imax)
+        call HMT_P(Qold1s,upr,upl,unr,unl,hmsth_bvof)
 
       elseif (imethod .EQ. 12) then
-        call HMT_C(Qold1s,upr,upl,unr,unl,hmsth_bvof,imax)
+        call HMT_C(Qold1s,upr,upl,unr,unl,hmsth_bvof)
 
       endif
 
