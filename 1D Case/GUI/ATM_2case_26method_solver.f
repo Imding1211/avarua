@@ -305,16 +305,16 @@ c---------------------MAIN ONE-----------------------SF(k)--------------
         call HMSTH8_C(Qold1s,upr,upl,unr,unl,hmsth_alpha,hmsth_bvof)
 
       elseif (imethod .EQ. 23) then
-        call HMT_P(Qold1s,upr,upl,unr,unl,hmsth_bvof,imax)
+        call HMT_P(Qold1s,upr,upl,unr,unl,hmsth_bvof)
 
       elseif (imethod .EQ. 24) then
-        call HMT_C(Qold1s,upr,upl,unr,unl,hmsth_bvof,imax)
+        call HMT_C(Qold1s,upr,upl,unr,unl,hmsth_bvof)
 
       elseif (imethod .EQ. 25) then
-        call HMT2_P(Qold1s,upr,upl,unr,unl,hmsth_bvof,imax)
+        call HMT2_P(Qold1s,upr,upl,unr,unl,hmsth_bvof)
 
       elseif (imethod .EQ. 26) then
-        call HMT2_C(Qold1s,upr,upl,unr,unl,hmsth_bvof,imax)
+        call HMT2_C(Qold1s,upr,upl,unr,unl,hmsth_bvof)
       endif
 
       if (icase .EQ. 1) then
